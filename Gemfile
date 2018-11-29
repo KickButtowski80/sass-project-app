@@ -64,4 +64,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails'
 gem 'devise', '~> 4.2'
 gem 'milia'
-gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
+gem 'twitter-bootstrap-rails', '~> 4.0'
+gem 'devise-i18n'
+gem 'devise-bootstrap-views'
